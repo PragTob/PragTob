@@ -4,7 +4,7 @@
 - 💼 I'm currently looking for a job, employment or freelance - I'm a Staff+ engineer but also have management experience
 
 - 💚 I'm passionate about a whole lot of things...
-  - Community, so runnign the [Ruby User Group Berlin](https://www.rug-b.de/) for 11 years (and counting) as well as conferences etc.
+  - Community, so running the [Ruby User Group Berlin](https://www.rug-b.de/) for 11 years (and counting) as well as conferences etc.
   - Creating Open Source projects useful to people (such as benchee)
   - Programming Languages, in particular Elixir & the BEAM these days
   - topics surrounding communication, collaboration, motivation & process improvements
