@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobi</h1>
 <h3 align="center">An Open Source Enthusiast with a passion for building meaningful products & working with people</h3>
 
-- 💼 I'm currently a Senior Elixir Engineer @ [Screenverse](https://www.screenversemedia.com/)
+- 💼 I'm currently a Senior Elixir Engineer @ [Together AI](https://www.together.ai/)
 
 - 💚 I'm passionate about a whole lot of things...
   - Community, so running the [Ruby User Group Berlin](https://www.rug-b.de/) for 11 years (and counting) as well as conferences etc.
